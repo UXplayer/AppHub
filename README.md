@@ -94,11 +94,11 @@ pages:
 - package page(pc + mobile): specific package
 - 404
 
-ios ipa type
-Development Profile: Used to install an app on a registered device in debug mode
-App Store Profile: A profile that is used to distribute a completed app to the App Store for sale
-In-house Distribution Profile: Only available with the Enterprise developer account type, and is used for distributing apps to non-registered devices outside of the App Store. (Example: A company would use this profile type to distribute internal apps to their employees).
-Ad-hoc Profile: A distribution profile for distributing an app to devices registered in the developer account
+ios ipa type:
+- Development Profile: Used to install an app on a registered device in debug mode
+- App Store Profile: A profile that is used to distribute a completed app to the App Store for sale
+- In-house Distribution Profile: Only available with the Enterprise developer account type, and is used for distributing apps to non-registered devices outside of the App Store. (Example: A company would use this profile type to distribute internal apps to their employees).
+- Ad-hoc Profile: A distribution profile for distributing an app to devices registered in the developer account
 
 https://stackoverflow.com/questions/17584426/check-if-app-is-ad-hocdevapp-store-build-at-run-time
 
